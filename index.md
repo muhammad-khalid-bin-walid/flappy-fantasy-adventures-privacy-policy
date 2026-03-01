@@ -1,38 +1,60 @@
-Privacy Policy for Flappy Fantasy Adventures
+# Privacy Policy  
+**Flappy Fantasy Adventures**  
+**Last Updated: March 1, 2026**
 
-Last Updated: March 1, 2026
+Flappy Fantasy Adventures ("the Game") is a mobile game developed by Zarmin Industries.
 
-Flappy Fantasy Adventures is a mobile game. This Privacy Policy explains our data practices.
+We are committed to protecting your privacy. This Privacy Policy explains what information (if any) we collect, how it is handled, and your related rights.
 
-1. Data Collection
+## 1. Information We Collect
 
-We do NOT collect any personal information from our users. 
+We **do not** collect, store, or transmit any personal information from users.
 
-The game stores only the following locally on your device:
-- Your high scores (for game progress)
+The Game operates entirely offline with respect to user data. The only data stored is:
 
-This data stays on your device and is not transmitted to us or any third parties.
+- Your high scores and game progress
 
-2. Third-Party Advertising
+This information is saved **locally on your device** only (e.g., via device storage). It is never sent to us, our servers, or any third parties.
 
-Our game displays ads served by Google AdMob. Google AdMob may collect device information (such as device model, operating system, and identifiers) to serve ads. We do not control and are not responsible for Google's data collection practices.
+## 2. Third-Party Services and Advertising
 
-For more information about Google's advertising privacy practices, please visit: https://policies.google.com/privacy
+The Game displays advertisements served by Google AdMob ("AdMob"), a third-party advertising service.
 
-3. Children's Privacy
+AdMob may collect certain non-personal device information to serve ads, including:
 
-This game is not intended for children under 13. We do not knowingly collect personal information from children.
+- Device type and model
+- Operating system version
+- Unique advertising identifiers (such as the Android Advertising ID or IDFA)
+- IP address
+- App version and other technical data
 
-4. Changes to This Policy
+This information may be used by Google to deliver personalized (interest-based) advertising and to measure ad performance. We do not control Google's data collection, use, or sharing practices, and we do not receive any of this data ourselves.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+For detailed information about Google's privacy practices, including how data is used for advertising and how to manage your preferences (such as opting out of personalized ads), please review:
 
-5. Contact Us
+- Google's Privacy Policy: https://policies.google.com/privacy  
+- Ad personalization settings: https://myadcenter.google.com
 
-If you have any questions about this Privacy Policy, please contact us:
+## 3. Children's Privacy
 
-Email: support@zarmindustries.com
+The Game is not directed to children under the age of 13, and we do not knowingly collect personal information from children.
+
+If you are a parent or guardian and believe your child has provided us with any information, please contact us using the details below. We will promptly investigate and take appropriate action.
+
+## 4. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the Game, applicable laws, or our practices. The updated version will be posted here with a revised "Last Updated" date.
+
+We encourage you to review this page periodically. Continued use of the Game after any changes constitutes your acceptance of the revised Privacy Policy.
+
+## 5. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at:
+
+**Email:** support@zarmindustries.com
 
 ---
 
-By using Flappy Fantasy Adventures, you agree to this Privacy Policy.
+By downloading, installing, or using Flappy Fantasy Adventures, you acknowledge that you have read, understood, and agree to this Privacy Policy.
+
+© 2026 Zarmin Industries. All rights reserved.
